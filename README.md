@@ -5,7 +5,7 @@ Welcome to my GitHub Page
 
 🌱 Exploring the unknown world of GitHub 😄
 
-📫 ##sm2hm@mst.edu you know where to use this 😊
+📫 sm2hm@mst.edu sreevalsansmenon@gmail.com 😊
 
 ⚡ Fun fact: Wait for it 💡
 <!--
