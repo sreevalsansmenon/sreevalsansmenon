@@ -1,8 +1,11 @@
 ### Hi there 👋
 Welcome to my GitHub Page
-🔭 I’m currently working on Neuroimaging \n
+🔭 I’m currently working on Neuroimaging 
+
 🌱 I’m currently learning R, Python and GitHub 😄
+
 📫 How to reach me: sm2hm@mst.edu 
+
 ⚡ Fun fact: I am exploring GitHub
 <!--
 **sreevalsansmenon/sreevalsansmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
